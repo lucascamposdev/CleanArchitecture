@@ -7,14 +7,68 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "WebUI/1.0.0": {
+        "dependencies": {
+          "Infra.Ioc": "1.0.0"
+        },
         "runtime": {
           "WebUI.dll": {}
+        }
+      },
+      "Application/1.0.0": {
+        "dependencies": {
+          "Domain": "1.0.0"
+        },
+        "runtime": {
+          "Application.dll": {}
+        }
+      },
+      "Domain/1.0.0": {
+        "runtime": {
+          "Domain.dll": {}
+        }
+      },
+      "Infra.Data/1.0.0": {
+        "dependencies": {
+          "Domain": "1.0.0"
+        },
+        "runtime": {
+          "Infra.Data.dll": {}
+        }
+      },
+      "Infra.Ioc/1.0.0": {
+        "dependencies": {
+          "Application": "1.0.0",
+          "Domain": "1.0.0",
+          "Infra.Data": "1.0.0"
+        },
+        "runtime": {
+          "Infra.Ioc.dll": {}
         }
       }
     }
   },
   "libraries": {
     "WebUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Infra.Ioc/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
