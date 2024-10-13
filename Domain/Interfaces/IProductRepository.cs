@@ -9,10 +9,12 @@ namespace Domain.Interfaces
 {
     public interface IProductRepository
     {
-        Task<IEnumerable<Category>> GetProducts();
-        Task<Category> GetById(int id);
-        Task<Category> Create(Category category);
-        Task<Category> Update(Category category);
-        Task<Category> Delete(Category category);
+        Task<IEnumerable<Product>> GetProducts();
+        Task<Product> GetById(int id);
+        Task<Product> Create(Product category);
+        Task<Product> Update(Product category);
+        Task<Product> Delete(Product category);
+
+        Task<Product> GetProductCategory(int id);
     }
 }
