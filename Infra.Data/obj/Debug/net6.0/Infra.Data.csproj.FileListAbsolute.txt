@@ -14,3 +14,5 @@ C:\Users\lucas\OneDrive\Área de Trabalho\CleanArchitecture\Infra.Data\obj\Debug
 C:\Users\lucas\OneDrive\Área de Trabalho\CleanArchitecture\Infra.Data\obj\Debug\net6.0\refint\Infra.Data.dll
 C:\Users\lucas\OneDrive\Área de Trabalho\CleanArchitecture\Infra.Data\obj\Debug\net6.0\Infra.Data.pdb
 C:\Users\lucas\OneDrive\Área de Trabalho\CleanArchitecture\Infra.Data\obj\Debug\net6.0\ref\Infra.Data.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CleanArchitecture\Infra.Data\bin\Debug\net6.0\Infra.Data.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\CleanArchitecture\Infra.Data\obj\Debug\net6.0\Infra.Data.genruntimeconfig.cache
