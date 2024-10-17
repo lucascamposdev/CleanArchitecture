@@ -94,3 +94,6 @@ C:\Users\lucas\OneDrive\Área de Trabalho\CleanArchitecture\WebUI\bin\Debug\net6
 C:\Users\lucas\OneDrive\Área de Trabalho\CleanArchitecture\WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\lucas\OneDrive\Área de Trabalho\CleanArchitecture\WebUI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
 C:\Users\lucas\OneDrive\Área de Trabalho\CleanArchitecture\WebUI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CleanArchitecture\WebUI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CleanArchitecture\WebUI\bin\Debug\net6.0\MediatR.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CleanArchitecture\WebUI\bin\Debug\net6.0\MediatR.Contracts.dll
